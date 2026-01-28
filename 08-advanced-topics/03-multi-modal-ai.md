@@ -1,9 +1,3 @@
----
-layout: default
-title: Multi-modal AI
-parent: 08 - Advanced Topics
-nav_order: 3
----
 
 # Multi-modal AI
 

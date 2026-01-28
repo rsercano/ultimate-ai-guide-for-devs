@@ -1,9 +1,3 @@
----
-layout: default
-title: 01 - How LLMs Work
-nav_order: 1
-has_children: true
----
 
 # Module 01: How LLMs Work
 

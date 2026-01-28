@@ -1,9 +1,3 @@
----
-layout: default
-title: Evaluation Strategies
-parent: 05 - Prompting & Eval
-nav_order: 3
----
 
 # Evaluation Strategies
 

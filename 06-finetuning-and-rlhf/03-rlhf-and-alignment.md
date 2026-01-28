@@ -1,9 +1,3 @@
----
-layout: default
-title: RLHF and Alignment
-parent: 06 - Fine-tuning & RLHF
-nav_order: 3
----
 
 # RLHF and Alignment
 

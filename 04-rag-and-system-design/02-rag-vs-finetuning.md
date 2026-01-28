@@ -1,9 +1,3 @@
----
-layout: default
-title: RAG vs Fine-tuning
-parent: 04 - RAG & System Design
-nav_order: 2
----
 
 # RAG vs Fine-tuning
 

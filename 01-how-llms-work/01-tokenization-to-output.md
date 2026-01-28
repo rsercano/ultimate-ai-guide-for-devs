@@ -1,9 +1,3 @@
----
-layout: default
-title: Tokenization to Output
-parent: 01 - How LLMs Work
-nav_order: 1
----
 
 # Tokenization to Output: The Full Journey
 

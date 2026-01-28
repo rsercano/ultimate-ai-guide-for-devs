@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 06 - Fine-tuning & RLHF
-nav_order: 99
----
 
 # Resources: Fine-tuning & RLHF
 

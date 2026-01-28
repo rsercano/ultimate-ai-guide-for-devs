@@ -1,9 +1,3 @@
----
-layout: default
-title: 07 - Hands-on Engineering
-nav_order: 7
-has_children: true
----
 
 # Module 07: Hands-on Engineering
 

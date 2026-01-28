@@ -1,9 +1,3 @@
----
-layout: default
-title: Optimization & Regularization
-parent: 02 - Training & Learning
-nav_order: 3
----
 
 # Optimization and Regularization
 

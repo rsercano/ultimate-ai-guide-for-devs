@@ -1,9 +1,3 @@
----
-layout: default
-title: 02 - Training & Learning
-nav_order: 2
-has_children: true
----
 
 # Module 02: Training & Learning
 

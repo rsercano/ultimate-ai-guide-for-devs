@@ -1,9 +1,3 @@
----
-layout: default
-title: Tool Calling & Agents
-parent: 05 - Prompting & Eval
-nav_order: 2
----
 
 # Tool Calling & Agents
 

@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 04 - RAG & System Design
-nav_order: 99
----
 
 # Resources: RAG & System Design
 

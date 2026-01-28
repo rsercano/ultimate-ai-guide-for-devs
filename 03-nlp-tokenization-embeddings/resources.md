@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 03 - NLP & Embeddings
-nav_order: 99
----
 
 # Resources: NLP, Tokenization & Embeddings
 

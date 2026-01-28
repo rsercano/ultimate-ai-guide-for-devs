@@ -1,9 +1,3 @@
----
-layout: default
-title: Loss and Backpropagation
-parent: 02 - Training & Learning
-nav_order: 2
----
 
 # Loss and Backpropagation
 

@@ -1,9 +1,3 @@
----
-layout: default
-title: Tokenization Strategies
-parent: 03 - NLP & Embeddings
-nav_order: 1
----
 
 # Tokenization Strategies
 

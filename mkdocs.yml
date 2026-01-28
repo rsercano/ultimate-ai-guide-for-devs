@@ -1,0 +1,145 @@
+site_name: Ultimate AI Guide for Developers
+site_url: https://rsercano.github.io/ultimate-ai-guide-for-devs
+site_description: A structured learning path for software developers transitioning into AI/LLM engineering
+site_author: rsercano
+docs_dir: .
+
+repo_name: rsercano/ultimate-ai-guide-for-devs
+repo_url: https://github.com/rsercano/ultimate-ai-guide-for-devs
+
+theme:
+  name: material
+  palette:
+    # Dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Light mode
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  
+  font:
+    text: Inter
+    code: JetBrains Mono
+  
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rsercano
+
+copyright: Licensed under CC BY 4.0
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+exclude_docs: |
+  README.md
+  CONTRIBUTING.md
+  LICENSE
+  .git/
+  .github/
+  assets/
+
+nav:
+  - Home: index.md
+  - Learning Path:
+    - 01 - How LLMs Work:
+      - Overview: 01-how-llms-work/index.md
+      - Tokenization to Output: 01-how-llms-work/01-tokenization-to-output.md
+      - Attention Mechanism: 01-how-llms-work/02-attention-mechanism.md
+      - Transformer Architecture: 01-how-llms-work/03-transformer-architecture.md
+      - Resources: 01-how-llms-work/resources.md
+    - 02 - Training & Learning:
+      - Overview: 02-training-and-learning/index.md
+      - Neural Network Basics: 02-training-and-learning/01-neural-network-basics.md
+      - Loss and Backpropagation: 02-training-and-learning/02-loss-and-backprop.md
+      - Optimization & Regularization: 02-training-and-learning/03-optimization-and-regularization.md
+      - Resources: 02-training-and-learning/resources.md
+    - 03 - NLP & Embeddings:
+      - Overview: 03-nlp-tokenization-embeddings/index.md
+      - Tokenization Strategies: 03-nlp-tokenization-embeddings/01-tokenization-strategies.md
+      - Embeddings Explained: 03-nlp-tokenization-embeddings/02-embeddings-explained.md
+      - Semantic Similarity: 03-nlp-tokenization-embeddings/03-semantic-similarity.md
+      - Resources: 03-nlp-tokenization-embeddings/resources.md
+    - 04 - RAG & System Design:
+      - Overview: 04-rag-and-system-design/index.md
+      - RAG Fundamentals: 04-rag-and-system-design/01-rag-fundamentals.md
+      - RAG vs Fine-tuning: 04-rag-and-system-design/02-rag-vs-finetuning.md
+      - Production Architecture: 04-rag-and-system-design/03-production-architecture.md
+      - Resources: 04-rag-and-system-design/resources.md
+    - 05 - Prompting & Eval:
+      - Overview: 05-prompting-tools-eval/index.md
+      - Prompt Engineering: 05-prompting-tools-eval/01-prompt-engineering.md
+      - Tool Calling & Agents: 05-prompting-tools-eval/02-tool-calling-agents.md
+      - Evaluation Strategies: 05-prompting-tools-eval/03-evaluation-strategies.md
+      - Resources: 05-prompting-tools-eval/resources.md
+    - 06 - Fine-tuning & RLHF:
+      - Overview: 06-finetuning-and-rlhf/index.md
+      - Training Pipeline Overview: 06-finetuning-and-rlhf/01-training-pipeline-overview.md
+      - Fine-tuning Approaches: 06-finetuning-and-rlhf/02-finetuning-approaches.md
+      - RLHF and Alignment: 06-finetuning-and-rlhf/03-rlhf-and-alignment.md
+      - Resources: 06-finetuning-and-rlhf/resources.md
+    - 07 - Hands-on Engineering:
+      - Overview: 07-hands-on-engineering/index.md
+      - Development Environment: 07-hands-on-engineering/01-development-environment.md
+      - Project Ideas: 07-hands-on-engineering/02-project-ideas.md
+      - Production Checklist: 07-hands-on-engineering/03-production-checklist.md
+      - Resources: 07-hands-on-engineering/resources.md
+    - 08 - Advanced Topics:
+      - Overview: 08-advanced-topics/index.md
+      - Model Serving & Inference: 08-advanced-topics/01-model-serving-inference.md
+      - Open Source Models: 08-advanced-topics/02-open-source-models.md
+      - Multi-modal AI: 08-advanced-topics/03-multi-modal-ai.md
+      - Advanced Agent Architectures: 08-advanced-topics/04-advanced-agents.md
+      - MLOps for LLMs: 08-advanced-topics/05-mlops-for-llms.md
+      - Resources: 08-advanced-topics/resources.md

@@ -1,9 +1,3 @@
----
-layout: default
-title: Project Ideas
-parent: 07 - Hands-on Engineering
-nav_order: 2
----
 
 # Project Ideas
 

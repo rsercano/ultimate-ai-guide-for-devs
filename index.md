@@ -1,52 +1,55 @@
----
-layout: home
-title: Home
-nav_order: 0
-description: "A structured, top-down learning path for software developers transitioning into AI/LLM engineering."
-permalink: /
----
-
 # Ultimate AI Guide for Developers
-{: .fs-9 }
 
-Master AI, NLP, and LLM engineering from first principles to production systems.
-{: .fs-6 .fw-300 }
+**Master AI, NLP, and LLM engineering from first principles to production systems.**
 
-[Start Learning]({{ site.baseurl }}/01-how-llms-work/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/rsercano/ultimate-ai-guide-for-devs){: .btn .fs-5 .mb-4 .mb-md-0 }
+A structured, top-down learning path for software developers transitioning into AI engineering.
 
 ---
 
-## Learning Path
+## :material-map-marker-path: Learning Roadmap
 
 Follow modules 01 → 08 in order. Each builds on the previous.
 
-| Module | Topic | What You'll Learn |
-|:-------|:------|:------------------|
-| [01]({{ site.baseurl }}/01-how-llms-work/) | How LLMs Work | Tokens, embeddings, attention, transformers |
-| [02]({{ site.baseurl }}/02-training-and-learning/) | Training & Learning | Loss, backprop, optimization |
-| [03]({{ site.baseurl }}/03-nlp-tokenization-embeddings/) | NLP & Embeddings | Tokenization, semantic similarity |
-| [04]({{ site.baseurl }}/04-rag-and-system-design/) | RAG & System Design | Production architectures |
-| [05]({{ site.baseurl }}/05-prompting-tools-eval/) | Prompting & Eval | Prompt engineering, tool calling |
-| [06]({{ site.baseurl }}/06-finetuning-and-rlhf/) | Fine-tuning & RLHF | LoRA, RLHF, alignment |
-| [07]({{ site.baseurl }}/07-hands-on-engineering/) | Hands-on Engineering | Real projects |
-| [08]({{ site.baseurl }}/08-advanced-topics/) | Advanced Topics | Model serving, MLOps |
+| # | Module | What You'll Learn | Time |
+|---|--------|-------------------|------|
+| 01 | [How LLMs Work](01-how-llms-work/index.md) | Tokens, embeddings, attention, transformers | 1 week |
+| 02 | [Training & Learning](02-training-and-learning/index.md) | Loss, backprop, optimization | 1 week |
+| 03 | [NLP & Embeddings](03-nlp-tokenization-embeddings/index.md) | Tokenization, semantic similarity | 1 week |
+| 04 | [RAG & System Design](04-rag-and-system-design/index.md) | Production AI architectures | 1-2 weeks |
+| 05 | [Prompting & Eval](05-prompting-tools-eval/index.md) | Prompt engineering, tool calling | 1-2 weeks |
+| 06 | [Fine-tuning & RLHF](06-finetuning-and-rlhf/index.md) | LoRA, RLHF, alignment | 1 week |
+| 07 | [Hands-on Engineering](07-hands-on-engineering/index.md) | Real projects with modern tooling | 2-4 weeks |
+| 08 | [Advanced Topics](08-advanced-topics/index.md) | Model serving, multi-modal, MLOps | 2-4 weeks |
+
+**Total: 10-16 weeks** (part-time alongside work)
 
 ---
 
-## Who This Is For
+## :material-account-group: Who This Is For
 
-- **Software developers** wanting to deeply understand AI
-- **Engineers transitioning** into AI/ML roles
-- **Technical leads** architecting AI systems
-
-**Estimated time:** 10-16 weeks (part-time)
+- **Software Developers** wanting to deeply understand AI
+- **Engineers Transitioning** into AI/ML engineering roles
+- **Technical Leads** who need to architect AI systems
+- **Anyone** tired of using LLMs as a black box
 
 ---
 
-## How to Use
+## :material-book-open-page-variant: How to Use This Guide
 
-1. **Follow the order** — Each module builds on previous concepts
-2. **Watch primary sources first** — Then read the notes
-3. **Complete checkpoints** — Verify understanding before moving on
-4. **Build projects** — Module 07 has graduated projects
+!!! tip "Follow the Order"
+    Each module builds on previous concepts. Don't skip ahead.
+
+!!! info "Primary Sources First"
+    Watch/read the linked resources, then read notes for reinforcement.
+
+!!! success "Complete Checkpoints"
+    Each module has a checkpoint section. Verify your understanding before moving on.
+
+!!! example "Build Projects"
+    Theory without practice doesn't stick. Module 07 has graduated projects.
+
+---
+
+## :material-rocket-launch: Ready to Start?
+
+[**Begin with Module 01: How LLMs Work →**](01-how-llms-work/index.md){ .md-button .md-button--primary }

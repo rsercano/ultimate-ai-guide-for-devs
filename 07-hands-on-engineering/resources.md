@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 07 - Hands-on Engineering
-nav_order: 99
----
 
 # Resources: Hands-on Engineering
 

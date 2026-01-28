@@ -1,9 +1,3 @@
----
-layout: default
-title: Fine-tuning Approaches
-parent: 06 - Fine-tuning & RLHF
-nav_order: 2
----
 
 # Fine-tuning Approaches
 

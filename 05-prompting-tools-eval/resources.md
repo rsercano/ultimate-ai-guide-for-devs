@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 05 - Prompting & Eval
-nav_order: 99
----
 
 # Resources: Prompting, Tools & Evaluation
 

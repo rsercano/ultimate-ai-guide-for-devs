@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 01 - How LLMs Work
-nav_order: 99
----
 
 # Resources: How LLMs Work
 

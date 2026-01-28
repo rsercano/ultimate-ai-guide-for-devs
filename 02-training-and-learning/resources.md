@@ -1,9 +1,3 @@
----
-layout: default
-title: Resources
-parent: 02 - Training & Learning
-nav_order: 99
----
 
 # Resources: Training & Learning
 

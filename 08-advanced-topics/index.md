@@ -1,9 +1,3 @@
----
-layout: default
-title: 08 - Advanced Topics
-nav_order: 8
-has_children: true
----
 
 # Module 08: Advanced Topics
 

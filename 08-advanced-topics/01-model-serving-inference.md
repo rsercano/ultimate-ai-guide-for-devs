@@ -1,9 +1,3 @@
----
-layout: default
-title: Model Serving & Inference
-parent: 08 - Advanced Topics
-nav_order: 1
----
 
 # Model Serving & Inference
 

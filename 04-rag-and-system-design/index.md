@@ -1,9 +1,3 @@
----
-layout: default
-title: 04 - RAG & System Design
-nav_order: 4
-has_children: true
----
 
 # Module 04: RAG & System Design
 

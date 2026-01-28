@@ -1,9 +1,3 @@
----
-layout: default
-title: Neural Network Basics
-parent: 02 - Training & Learning
-nav_order: 1
----
 
 # Neural Network Basics
 
