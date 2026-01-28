@@ -6,7 +6,7 @@ A structured, top-down learning path for software developers transitioning into 
 
 ---
 
-## :material-map-marker-path: Learning Roadmap
+## Learning Roadmap
 
 Follow modules 01 → 08 in order. Each builds on the previous.
 
@@ -25,7 +25,7 @@ Follow modules 01 → 08 in order. Each builds on the previous.
 
 ---
 
-## :material-account-group: Who This Is For
+## Who This Is For
 
 - **Software Developers** wanting to deeply understand AI
 - **Engineers Transitioning** into AI/ML engineering roles
@@ -34,7 +34,7 @@ Follow modules 01 → 08 in order. Each builds on the previous.
 
 ---
 
-## :material-book-open-page-variant: How to Use This Guide
+## How to Use This Guide
 
 !!! tip "Follow the Order"
     Each module builds on previous concepts. Don't skip ahead.
@@ -50,6 +50,6 @@ Follow modules 01 → 08 in order. Each builds on the previous.
 
 ---
 
-## :material-rocket-launch: Ready to Start?
+## Ready to Start?
 
-[**Begin with Module 01: How LLMs Work →**](01-how-llms-work/index.md){ .md-button .md-button--primary }
+[Begin with Module 01: How LLMs Work →](01-how-llms-work/index.md){ .md-button .md-button--primary }
