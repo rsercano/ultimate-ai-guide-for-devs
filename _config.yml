@@ -2,7 +2,7 @@
 title: Ultimate AI Guide for Developers
 description: A structured, top-down learning path for software developers transitioning into AI/LLM engineering.
 baseurl: "/ultimate-ai-guide-for-devs"
-url: ""  # Will be set automatically by GitHub Pages
+url: "https://rsercano.github.io"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
@@ -10,7 +10,7 @@ color_scheme: dark
 
 # Repository
 gh_repo: ultimate-ai-guide-for-devs
-gh_repo_owner: ""  # Update with your GitHub username
+gh_repo_owner: rsercano
 
 # Aux links (top right)
 aux_links:

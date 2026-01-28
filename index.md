@@ -13,7 +13,7 @@ Master AI, NLP, and LLM engineering from first principles to production systems.
 {: .fs-6 .fw-300 }
 
 [Start Learning](/ultimate-ai-guide-for-devs/01-how-llms-work/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/sercan/ultimate-ai-guide-for-devs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/rsercano/ultimate-ai-guide-for-devs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
