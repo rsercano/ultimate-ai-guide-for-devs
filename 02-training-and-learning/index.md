@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "02 - Training & Learning"
+title: 02 - Training & Learning
 nav_order: 2
 has_children: true
-permalink: /02-training-and-learning/
 ---
 
 # Module 02: Training & Learning

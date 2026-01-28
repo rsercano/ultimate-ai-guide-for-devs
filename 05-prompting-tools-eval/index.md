@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "05 - Prompting & Eval"
+title: 05 - Prompting & Eval
 nav_order: 5
 has_children: true
-permalink: /05-prompting-tools-eval/
 ---
 
 # Module 05: Prompting, Tools & Evaluation

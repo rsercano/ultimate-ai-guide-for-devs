@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Transformer Architecture
-parent: "01 - How LLMs Work"
+parent: 01 - How LLMs Work
 nav_order: 3
 ---
 

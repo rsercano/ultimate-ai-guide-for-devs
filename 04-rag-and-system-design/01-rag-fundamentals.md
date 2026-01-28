@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RAG Fundamentals
-parent: "04 - RAG & System Design"
+parent: 04 - RAG & System Design
 nav_order: 1
 ---
 

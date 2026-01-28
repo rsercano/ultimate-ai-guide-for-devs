@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Model Serving & Inference
-parent: "08 - Advanced Topics"
+parent: 08 - Advanced Topics
 nav_order: 1
 ---
 

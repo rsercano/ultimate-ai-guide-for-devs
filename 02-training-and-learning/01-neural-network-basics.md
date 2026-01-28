@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Neural Network Basics
-parent: "02 - Training & Learning"
+parent: 02 - Training & Learning
 nav_order: 1
 ---
 

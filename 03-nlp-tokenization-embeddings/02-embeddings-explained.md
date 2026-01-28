@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Embeddings Explained
-parent: "03 - NLP & Embeddings"
+parent: 03 - NLP & Embeddings
 nav_order: 2
 ---
 

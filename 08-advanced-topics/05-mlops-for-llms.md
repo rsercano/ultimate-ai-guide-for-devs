@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MLOps for LLMs
-parent: "08 - Advanced Topics"
+parent: 08 - Advanced Topics
 nav_order: 5
 ---
 

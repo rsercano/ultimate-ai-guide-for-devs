@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "04 - RAG & System Design"
+title: 04 - RAG & System Design
 nav_order: 4
 has_children: true
-permalink: /04-rag-and-system-design/
 ---
 
 # Module 04: RAG & System Design

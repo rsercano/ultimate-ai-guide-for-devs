@@ -5,7 +5,7 @@ baseurl: "/ultimate-ai-guide-for-devs"
 url: "https://rsercano.github.io"
 
 # Theme
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 color_scheme: dark
 
 # Repository
@@ -15,13 +15,17 @@ gh_repo_owner: rsercano
 # Aux links (top right)
 aux_links:
   "GitHub":
-    - "https://github.com/sercan/ultimate-ai-guide-for-devs"
+    - "https://github.com/rsercano/ultimate-ai-guide-for-devs"
 
 aux_links_new_tab: true
 
-# Navigation
+# Navigation - enable and expand by default
 nav_enabled: true
 nav_sort: case_insensitive
+heading_anchors: true
+
+# Collapse navigation by default (expand on click)
+nav_fold: false
 
 # Search
 search_enabled: true
@@ -30,9 +34,6 @@ search:
   previews: 3
   preview_words_before: 5
   preview_words_after: 10
-  tokenizer_separator: /[\s/]+/
-  rel_url: true
-  button: false
 
 # Footer
 footer_content: "Licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>"
@@ -41,58 +42,12 @@ footer_content: "Licensed under <a href=\"https://creativecommons.org/licenses/b
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Collections for modules
-collections:
-  modules:
-    output: true
-    permalink: /:path/
-
-# Defaults
+# Default layout
 defaults:
   - scope:
       path: ""
     values:
       layout: default
-  - scope:
-      path: "01-how-llms-work"
-    values:
-      parent: "01 - How LLMs Work"
-      nav_order: 1
-  - scope:
-      path: "02-training-and-learning"
-    values:
-      parent: "02 - Training & Learning"
-      nav_order: 2
-  - scope:
-      path: "03-nlp-tokenization-embeddings"
-    values:
-      parent: "03 - NLP & Embeddings"
-      nav_order: 3
-  - scope:
-      path: "04-rag-and-system-design"
-    values:
-      parent: "04 - RAG & System Design"
-      nav_order: 4
-  - scope:
-      path: "05-prompting-tools-eval"
-    values:
-      parent: "05 - Prompting & Eval"
-      nav_order: 5
-  - scope:
-      path: "06-finetuning-and-rlhf"
-    values:
-      parent: "06 - Fine-tuning & RLHF"
-      nav_order: 6
-  - scope:
-      path: "07-hands-on-engineering"
-    values:
-      parent: "07 - Hands-on Engineering"
-      nav_order: 7
-  - scope:
-      path: "08-advanced-topics"
-    values:
-      parent: "08 - Advanced Topics"
-      nav_order: 8
 
 # Plugins
 plugins:
@@ -107,3 +62,4 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - README.md

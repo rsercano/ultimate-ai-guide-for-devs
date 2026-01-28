@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Training Pipeline Overview
-parent: "06 - Fine-tuning & RLHF"
+parent: 06 - Fine-tuning & RLHF
 nav_order: 1
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "07 - Hands-on Engineering"
+title: 07 - Hands-on Engineering
 nav_order: 7
 has_children: true
-permalink: /07-hands-on-engineering/
 ---
 
 # Module 07: Hands-on Engineering

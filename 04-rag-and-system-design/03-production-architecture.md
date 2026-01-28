@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Production Architecture
-parent: "04 - RAG & System Design"
+parent: 04 - RAG & System Design
 nav_order: 3
 ---
 

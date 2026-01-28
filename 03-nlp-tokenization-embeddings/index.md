@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "03 - NLP & Embeddings"
+title: 03 - NLP & Embeddings
 nav_order: 3
 has_children: true
-permalink: /03-nlp-tokenization-embeddings/
 ---
 
 # Module 03: NLP, Tokenization & Embeddings

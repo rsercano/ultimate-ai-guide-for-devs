@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tokenization to Output
-parent: "01 - How LLMs Work"
+parent: 01 - How LLMs Work
 nav_order: 1
 ---
 

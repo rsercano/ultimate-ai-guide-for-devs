@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prompt Engineering
-parent: "05 - Prompting & Eval"
+parent: 05 - Prompting & Eval
 nav_order: 1
 ---
 

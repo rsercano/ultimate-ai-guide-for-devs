@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Attention Mechanism
-parent: "01 - How LLMs Work"
+parent: 01 - How LLMs Work
 nav_order: 2
 ---
 

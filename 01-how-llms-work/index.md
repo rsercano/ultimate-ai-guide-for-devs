@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "01 - How LLMs Work"
+title: 01 - How LLMs Work
 nav_order: 1
 has_children: true
-permalink: /01-how-llms-work/
 ---
 
 # Module 01: How LLMs Work

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "06 - Fine-tuning & RLHF"
+title: 06 - Fine-tuning & RLHF
 nav_order: 6
 has_children: true
-permalink: /06-finetuning-and-rlhf/
 ---
 
 # Module 06: Fine-tuning & RLHF

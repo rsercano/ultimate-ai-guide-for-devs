@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Source Models
-parent: "08 - Advanced Topics"
+parent: 08 - Advanced Topics
 nav_order: 2
 ---
 

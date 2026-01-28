@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Production Checklist
-parent: "07 - Hands-on Engineering"
+parent: 07 - Hands-on Engineering
 nav_order: 3
 ---
 
