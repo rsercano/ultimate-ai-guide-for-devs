@@ -110,9 +110,7 @@ nav:
     - Resources: 06-finetuning-and-rlhf/resources.md
   - 07 - Hands-on Engineering:
     - Overview: 07-hands-on-engineering/index.md
-    - Development Environment: 07-hands-on-engineering/01-development-environment.md
-    - Project Ideas: 07-hands-on-engineering/02-project-ideas.md
-    - Production Checklist: 07-hands-on-engineering/03-production-checklist.md
+    - Production Checklist: 07-hands-on-engineering/01-production-checklist.md
     - Resources: 07-hands-on-engineering/resources.md
   - 08 - Advanced Topics:
     - Overview: 08-advanced-topics/index.md

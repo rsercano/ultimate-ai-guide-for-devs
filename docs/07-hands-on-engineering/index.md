@@ -3,42 +3,31 @@
 
 ## Objective
 
-**Apply everything you've learned by building real projects.**
+**Production-ready LLM applications require more than working code.**
 
-This module focuses on practical implementation using modern AI tooling. Theory is only useful if you can build with it.
+This module covers the hard lessons learned from deploying LLM systems at scale. Every do and don't comes from real production incidents.
 
 ## Prerequisites
 
 - [Modules 01-06](../01-how-llms-work/) completed
-- Python environment set up
-- API keys for OpenAI/Anthropic (or local model setup)
+- Basic understanding of API integrations
+- Familiarity with production deployment concepts
 
 ## Topics
 
 | # | Topic | Description |
 |---|-------|-------------|
-| 01 | [Development Environment](./01-development-environment.md) | Tools, libraries, setup |
-| 02 | [Project Ideas](./02-project-ideas.md) | Graduated projects to build |
-| 03 | [Production Checklist](./03-production-checklist.md) | What you need before deploying |
-
-## Suggested Learning Path
-
-```
-Week 1-2: Build a simple RAG chatbot
-Week 3-4: Add tool calling / agents
-Week 5-6: Implement evaluation pipeline
-Week 7-8: Deploy to production with monitoring
-```
+| 01 | [Production Checklist](./01-production-checklist.md) | Do's and don'ts for production LLM apps |
 
 ## Checkpoint
 
 After completing this module, you should be able to:
 
-- [ ] Set up a complete AI development environment
-- [ ] Build a RAG system from scratch
-- [ ] Implement tool-calling agents
-- [ ] Set up evaluation pipelines
-- [ ] Deploy and monitor LLM applications
+- [ ] Configure reliable LLM integrations with fallbacks
+- [ ] Implement proper cost controls and budgeting
+- [ ] Set up observability for LLM applications
+- [ ] Avoid common production pitfalls
+- [ ] Build evaluation pipelines into CI/CD
 
 ## Primary Resources
 
