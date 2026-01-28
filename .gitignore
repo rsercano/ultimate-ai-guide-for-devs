@@ -1,0 +1,42 @@
+# Environment
+.env
+.env.local
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+*.cache
+
+# Logs
+*.log
+logs/
+
+# Local databases
+*.db
+*.sqlite
+
+# Vector stores (large files)
+chroma_db/
+faiss_index/
